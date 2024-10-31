@@ -17,7 +17,7 @@
 
 **URL**(https://support.microsoft.com/en-us/office/calculate-percentages-6b5506e9-125a-4aba-a638-d6b40e603981)
 
-_Commit Message: "Added questions to clarify the issue of formulas not calculating in Excel."_
+_Commit Message: "Added questions to clarify the issue of formulas not calculating in Excel and detailed explanation of some of the most common errors in Excel, what they mean, and how to correct them."_
 
 
 
