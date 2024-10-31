@@ -14,4 +14,4 @@
 
  **URL**(https://spreadsheeto.com/formula-errors/)
  
-_Commit Message: "Compiled basic Excel troubleshooting resources for formula calculation issues and these sites are the best but 1st one is far better than all.It can clear the probelm more easily and not too much complicated."_
+_Commit Message: "Compiled basic Excel troubleshooting resources for formula calculation issues and these sites are the best sites to solve excel issue.It can clear the probelm more easily and not too much complicated."_
