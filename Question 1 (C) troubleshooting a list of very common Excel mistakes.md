@@ -1,6 +1,6 @@
 # Formulas Not Calculating
 
-##  few sites with troubleshoorting  a list of very common Excel mistakes.
+##  few sites with troubleshooting  a list of very common Excel mistakes.
 
 ### Relying too much on manual entry
 Relying too much on manual entry increases the risk of typographical errors and inconsistencies in your data.
@@ -21,3 +21,5 @@ Not protecting important formulas can result in accidental changes that alter yo
 Mixing data types in a single column is a recipe for disaster. For example, if you have a column that contains both text and numbers, Excel may not be able to perform calculations accurately.
 
 **URL**(https://www.excel-university.com/vlookup-hack-6-different-data-types/)
+
+**commit**:These sites are best to solve the problem with troubleshooting in excel mistakes.Encountering errors in Excel is common, but they don't have to disrupt your workflow or waste time. By familiarizing yourself with common Excel errors and their solutions, you can quickly identify and resolve issues, ensuring a smooth workflow
