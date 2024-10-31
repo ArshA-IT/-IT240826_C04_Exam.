@@ -1,4 +1,4 @@
-# User Needs to Enable Dark Mode
+# A User Needs to Enable Dark Mode
 ### Are you looking to change the entire Windows interface to Dark Mode, or just specific applications?
 
 **URL**(https://www.microsoft.com/en-us/windows/learning-center/when-to-use-dark-mode?msockid=38b72eacb6306df2307d3bb9b7a36c6d)
