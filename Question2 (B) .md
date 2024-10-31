@@ -8,4 +8,6 @@
 
 **URL**(https://www.pcmag.com/explainers/best-windows-11-tips-and-tricks)
 
+ **Screenshot**(https://github.com/ArshA-IT/-IT240826_C04_Exam..wiki.git)
+
 **Commit:** Windows, Microsoft’s versatile operating system, is renowned for its adaptability and user-friendly interface, particularly through Windows UI customization. This customization capability is a standout feature, allowing users to tailor the system to their preferences and needs.
