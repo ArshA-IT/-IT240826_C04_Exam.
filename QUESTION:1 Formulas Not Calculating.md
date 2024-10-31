@@ -1,5 +1,4 @@
-# Question:1 Formulas not calculating
-# (A)
+# Question:1 (A) Formulas not calculating
 
 ### what to do when excel formula result in an error?
 
